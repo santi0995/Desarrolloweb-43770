@@ -27,7 +27,7 @@
 
 html{
     width: 100%;
-    font-size: 62.5%;
+    font-size: .7rem;
     overflow-x: hidden;
 }
 
@@ -229,7 +229,6 @@ section{
 
 #products{
     padding: 0px 0;
-    /* width: 90%; */
     max-width: 70%;
     overflow: hidden;
     margin: auto;
@@ -262,8 +261,8 @@ section{
     font-size: 2.5rem;
 }
 .products .box-container .box .content .price span{
-   text-decoration: line-through;
-   font-weight: lighter;
+    text-decoration: line-through;
+    font-weight: lighter;
     font-size: 1.5rem;
 }
 
